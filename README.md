@@ -18,3 +18,6 @@ Tujuan utama proyek ini adalah mempelajari cara membuat, mengedit, dan memperbar
 2. Clone repositori ini:
    ```bash
    git clone https://github.com/arjuansy/JavaVersionControlPracticeProLan.git
+   ```
+   ![Alt text](https://cdn-icons-png.flaticon.com/512/226/226777.png)
+   
