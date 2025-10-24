@@ -17,4 +17,4 @@ Tujuan utama proyek ini adalah mempelajari cara membuat, mengedit, dan memperbar
 1. Pastikan sudah menginstal **Java Development Kit (JDK)** minimal versi 8.
 2. Clone repositori ini:
    ```bash
-   git clone https://github.com/<username>/DocumentationPractice.git
+   git clone https://github.com/arjuansy/JavaVersionControlPracticeProLan.git
